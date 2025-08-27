@@ -1,2 +1,2 @@
 # YoutubeChannelPage
-A Youtube channel website template
+A Youtube channel promotion website
